@@ -1,0 +1,4 @@
+interface:
+  display_name: "爆款帖文分析"
+  short_description: "从公开帖文链接拆解内容吸引力、互动动机与可能的流量来源，区分事实和推测"
+  default_prompt: "用 $post-viral-analysis 分析这个帖文链接为什么获得这么多流量，给出原文证据和来源。"

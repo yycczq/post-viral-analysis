@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.venv/
+post-analysis-results/
+.DS_Store
